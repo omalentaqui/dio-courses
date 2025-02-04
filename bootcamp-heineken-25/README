@@ -1,0 +1,23 @@
+# 📊 Dashboard de Vendas no Excel
+
+## 📌 Descrição do Projeto
+Este projeto tem como objetivo criar um **dashboard de vendas no Excel**, transformando dados brutos em informações visuais claras e úteis. 
+Com isso, é possível analisar o desempenho das vendas e tomar decisões baseadas em dados.
+
+## 🚀 Como Reproduzir o Dashboard
+1. **Clone o repositório:**
+   ```sh
+   git clone https://github.com/omalentaqui/dashboard_vendas.git
+   ```
+2. **Abra o arquivo do Excel** na pasta `/dashboard/`
+3. **Interaja com os filtros e gráficos** para explorar os insights das vendas.
+
+## 🛠 Tecnologias Utilizadas
+- **Microsoft Excel** (Tabelas dinâmicas, gráficos e segmentação de dados)
+- **GitHub** (Para versionamento e compartilhamento do projeto)
+
+## 📩 Contato
+Caso tenha alguma dúvida ou sugestão, entre em contato!
+
+---
+Projeto desenvolvido para fins de aprendizado e prática de análise de dados com Excel. 🚀
